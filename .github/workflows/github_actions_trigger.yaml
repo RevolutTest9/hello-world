@@ -1,0 +1,3 @@
+on:
+  push:
+    branches: [ "testing_gcp", "master" ]
